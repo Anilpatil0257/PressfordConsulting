@@ -1,0 +1,134 @@
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.exe
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.deps.json
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.runtimeconfig.json
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.runtimeconfig.dev.json
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.pdb
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.AssemblyInfoInputs.cache
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.AssemblyInfo.cs
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.csproj.CoreCompileInputs.cache
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\staticwebassets\PressfordConsultingApi.StaticWebAssets.Manifest.cache
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\staticwebassets\PressfordConsultingApi.StaticWebAssets.xml
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\PressfordConsultingApi.styles.css
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.RazorTargetAssemblyInfo.cache
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.csproj.CopyComplete
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.pdb
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.genruntimeconfig.cache
+C:\Projects\KPMG\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.csprojAssemblyReference.cache
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Projects\KPMG\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.exe
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.deps.json
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.runtimeconfig.json
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.runtimeconfig.dev.json
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\PressfordConsultingApi.pdb
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.csprojAssemblyReference.cache
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.AssemblyInfoInputs.cache
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.AssemblyInfo.cs
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.csproj.CoreCompileInputs.cache
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\staticwebassets\PressfordConsultingApi.StaticWebAssets.Manifest.cache
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\staticwebassets\PressfordConsultingApi.StaticWebAssets.xml
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\PressfordConsultingApi.styles.css
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.RazorTargetAssemblyInfo.cache
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.csproj.CopyComplete
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.dll
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.pdb
+C:\Users\Abir anil mayuri\Documents\GitHub\PressfordConsulting\API\PressfordConsultingApi\obj\Debug\netcoreapp3.1\PressfordConsultingApi.genruntimeconfig.cache
